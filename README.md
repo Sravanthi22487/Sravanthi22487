@@ -1,23 +1,22 @@
 ## # Hi there 👋, I'm Sravanthi!
 
-### Aspiring Data Engineer | Python | SQL | ETL Pipelines
-
-I'm building my skills in Data Engineering by developing Python projects and learning how to build reliable data pipelines.
+CSE Student | Aspiring Data Analyst | Exploring Digital Marketing Analytics, Excel Dashboards & Data-Driven Insights
+I'm building my skills in Data Analytics and Digital Marketing by creating projects and learning how to turn data into actionable insights.
 
 ## 🛠️ Technical Skills
-- **Programming:** Python
-- **Database:** SQL
-- **Data Engineering:** ETL Pipelines, Data Validation
-- **Development Tools:** Git, GitHub
-- **Testing & Reliability:** Logging, Unit Testing
+- **Data Analysis:** Excel, Data Cleaning, PivotTables, Data Visualization
+- **Digital Marketing:** Social Media Analytics, Content Performance Analysis
+- **Programming & Database:** Python, SQL (Learning)
+- **Tools:** Git, GitHub, Microsoft Excel
 
 ## 🚀 Projects
-I'm building hands-on projects to strengthen my Data Engineering skills. Check back as I add more projects!
+I'm building hands-on projects in Data Analytics and Digital Marketing to analyse performance, discover insights, and support data-driven decisions.
 
 ## 🌱 Currently Learning
-- Building and improving ETL pipelines
-- Data processing and validation with Python
-- Writing maintainable, testable code
+- Excel dashboards and data analysis
+- Social media engagement and campaign performance
+- SQL and Power BI
+- Digital marketing analytics
 
 ## 🤝 Connect with Me
 - [LinkedIn](https://www.linkedin.com/)
